@@ -90,8 +90,8 @@ export const Intro = () => (
     <SpaceBetween>
       <SocialMediaLink
         name={'github.png'}
-        link={'https://github.com/beatrizoliveiira'}
-        username={'@beatrizoliveiira'}
+        link={'https://github.com/biantris'}
+        username={'@biantris'}
       />
       <SocialMediaLink
         name={'twitter.png'}
