@@ -4,6 +4,7 @@
 
 <div align="center">
   Slides of my talk about FullStack Journey for Junior Developers
+  He4rt Conf: https://conf.heartdevs.com
 </div>
 
 <p align="center">
