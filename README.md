@@ -10,3 +10,20 @@
 <p align="center">
     <img width="800" src="./src/img/main.png" />
 </p>
+
+<p align="center">
+    Slides https://biantris.github.io/talk-he4rt-conf
+</p>
+
+### How to Run
+- clone this repo
+
+```sh
+> yarn
+#or
+> yarn install
+
+> yarn start
+
+Open in: http://localhost:3000
+```
